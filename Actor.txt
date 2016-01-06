@@ -1,3 +1,7 @@
 Actor
 
-1. Vishal
+A. Rajinikanth
+B. Vijayakanth
+c. Kamal
+D. Sathyaraj
+E. Karthick
